@@ -1,4 +1,4 @@
-# 📊 Personal Progress Tracker
+#  Personal Progress Tracker
 
 **Personal Progress Tracker** is a flexible and reusable web-based application that helps you monitor your progress on various tasks. Whether you're tracking learning goals, fitness routines, or daily habits, the tracker provides visual insights to keep you motivated.
 
