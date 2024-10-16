@@ -9,6 +9,12 @@
 3. **Daily Insights:** See what you've accomplished each day in the "What I Learned" section.
 4. **Reusable Setup:** Easily customize the tasks by editing `utils/Task.js` to match your own goals.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/2af2f892-a96b-4bb0-8423-317180673950
+
+
 ---
 
 Customize your own progress tracker and stay on top of your goals! 🎯
